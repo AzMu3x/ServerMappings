@@ -1,14 +1,19 @@
 {
   "id": "thecractsmp",
   "name": "TheCractSMP",
+  "description": "Fun public SMP server with survival, economy and events",
   "addresses": [
     "play.thecractsmp.com"
   ],
   "primaryAddress": "play.thecractsmp.com",
   "minecraftVersions": [
-    "1.21+"
+    "1.21.8"
   ],
-  "gameTypes": [
-    "SMP"
-  ]
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryColor": "#00ff88",
+  "secondaryColor": "#00ccff",
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "gameTypes": ["SMP"],
+  "crossplay": false
 }
