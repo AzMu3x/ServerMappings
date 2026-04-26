@@ -3,7 +3,7 @@
     "name": "TheCractSMP",
     "description": "Fun public SMP server with survival, economy and events",
     "addresses": [
-        "play.thecractsmp.com"
+        "thecractsmp.com"
     ],
     "primaryAddress": "play.thecractsmp.com",
     "minecraftVersions": [
@@ -17,7 +17,7 @@
         "EU"
     ],
     "gameTypes": [
-        "SMP"
+        "Survival"
     ],
     "crossplay": false
 }
